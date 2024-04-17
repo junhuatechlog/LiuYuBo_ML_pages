@@ -1,0 +1,20 @@
+[book]
+authors = ["windmissing", "Xor8"]
+language = "en"
+description = "The note of LYB"
+multilingual = false
+src = "src"
+title = "LYBStudy"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://github.com/CaterpillarStudyGroup/LiuYuBo_ML_pages.git"
+git-repository-icon = "fa-github"
+
+[output.html.fold]
+
+[output.html.print]
+enable = true
+
+[output.html.search]
+enable = true
